@@ -9,4 +9,4 @@ DIN=18
 Clock=16
 
 run
-sudo python timer.py
+sudo python Timer.py

@@ -1,6 +1,6 @@
 # timer
 First Download this
-sudo wget https://raspberrytips.nl/files/tm1637.py
+#sudo wget https://raspberrytips.nl/files/tm1637.py
 
 connect this pins
 ground=14
